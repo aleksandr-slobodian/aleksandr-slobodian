@@ -4,7 +4,7 @@ Hi 👋 My name is Oleksandr Slobodian
 Frontend Developer, ReactJs, NextJs
 -----------------------------------
 
-* 🌍  I'm based in Dnipro, Ukraime
+* 🌍  I'm based in Dnipro, Ukraine
 * 🤝  I'm open to collaborating on new NextJs or ReactJs projects
 
 ### Skills
